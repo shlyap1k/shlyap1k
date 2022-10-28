@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander
 - 👀 I’m interested in programming and python
-- 🌱 I’m currently learning design patterns and how to make my code better in long term
+- 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 [How to reach me ...](https://t.me/shlyap1k)
 
